@@ -4,7 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 		// isPrimeNumber
 
-		int number = 2;
+		int number = 12;
 		boolean isPrime = true;
 		
 		if(number < 2) {

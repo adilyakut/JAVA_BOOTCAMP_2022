@@ -7,7 +7,7 @@ public class Main {
 		//educationCreditManager.Calculate();
 		
 		CreditUI creditUI = new CreditUI();
-		creditUI.CreditCalculate(new EducationCreditManager());
+		creditUI.CreditCalculate(new EducationCreditManager()); 
 		
 	}
 
